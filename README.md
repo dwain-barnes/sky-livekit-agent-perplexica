@@ -13,6 +13,7 @@ Sky LiveKit Agent Perplexica is a fully local, free solution that integrates Liv
 ## Required Components
 
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Local search engine
+- Ollama - for local models
 - [LiveKit Server](https://docs.livekit.io/home/self-hosting/local/) - WebRTC server
 - [Voice Assistant Frontend](https://github.com/livekit-examples/voice-assistant-frontend) - LiveKit frontend interface
 - [Speaches](https://github.com/speaches-ai/speaches) - Speech recognition
